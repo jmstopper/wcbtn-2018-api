@@ -80,7 +80,7 @@ Users can create a new ideas which map to an ideas CPT within WordPress.
 10.  Delete Reminder Date
 11.  Add Reminder Text
 12.  Edit reminder text
-13.  Delete reminder test
+13.  Delete reminder text
 14.  Dismiss Reminders
 15.  Available across devices
 16.  iOS & Android versions (at least)
