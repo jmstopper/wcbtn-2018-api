@@ -166,6 +166,19 @@ Users can create a new ideas which map to an ideas CPT within WordPress.
 * _User Story 13:_ As a user, I need to be able to edit pre-existing ideas and save them so I can keep my ideas up-to-date
 * _Actions:_ Users can select the idea in edit mode and change the details
 * _Task List:_
+    - Get list of all ideas (rest api get)
+    - Get single view and data for an idea (rest api get)
+    - Edit button to make fields editable
+    - Provide data in editable fields
+    - Save button can be clicked
+    - Data is gathered from inputs
+    - Fields validated locallaly
+    - Post token, idea id, and data to rest api
+        - Sanitisation of data
+        - Write to database 
+        - Return success/failure with code
+    - Display result of action in 
+
 -----
 * _User Story 14:_ As a user I need to be able to dismiss a reminder as no longer relevant and archive it
 * _Actions:_ This could simply remove the reminder date from WordPress
